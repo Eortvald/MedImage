@@ -1,0 +1,11 @@
+setuptools
+wheel
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+notebook
+lxml
+requests
+numba
